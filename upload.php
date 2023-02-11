@@ -1,7 +1,7 @@
 <?php
   if (isset($_FILES['fileToUpload'])) {
-    $token = "5949193548:AAEybA1tbLvDYa-W5WKe20lTF6WvC7SF2bM";
-    $chat_id = "1045144875";
+    $token = "yourbottoken";
+    $chat_id = "yourchatid";
     
     $file = $_FILES['fileToUpload'];
     $file_path = $file['tmp_name'];
