@@ -1,14 +1,20 @@
 [
     {
-      "name": "exampleServer1",
-      "ip": "192.168.1.1",
-      "port": 7777,
-      "id": 12345
+      "color": "ffa500",
+      "dopname": "(X2 акции)",
+      "maxonline": 50,
+      "name": "EDGAR",
+      "online": 33,
+      "server_status": true,
+      "server_num": "1"
     },
-    {
-      "name": "exampleServer2",
-      "ip": "192.168.1.2",
-      "port": 8888,
-      "id": 54321
+   {
+      "color": "fff000",
+      "dopname": "(X2 акции)",
+      "maxonline": 50,
+      "name": "Lom",
+      "online": 100,
+      "server_status": true,
+      "server_num": "2"
     }
-  ]
+]
