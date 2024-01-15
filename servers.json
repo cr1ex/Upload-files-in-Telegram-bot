@@ -14,7 +14,7 @@
       "maxonline": 50,
       "name": "Soon",
       "online": 0,
-      "server_status": true,
+      "server_status": false,
       "server_num": "2"
     }
 ]
