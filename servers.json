@@ -1,6 +1,20 @@
 {
-    "name": "Fremont RP",
-    "ip": "164.132.219.35",
-    "port": 1853,
-    "id": 1
+  "serverList": [
+    {
+      "name": "exampleServer1",
+      "ip": "192.168.1.1",
+      "port": 7777,
+      "id": 12345
+    },
+    {
+      "name": "exampleServer2",
+      "ip": "192.168.1.2",
+      "port": 8888,
+      "id": 54321
+    }
+  ],
+  "serverListener": {
+    "listenerProperty1": "value1",
+    "listenerProperty2": "value2"
+  }
 }
