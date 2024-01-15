@@ -1,5 +1,4 @@
-{
-  "serverList": [
+[
     {
       "name": "exampleServer1",
       "ip": "192.168.1.1",
@@ -12,9 +11,4 @@
       "port": 8888,
       "id": 54321
     }
-  ],
-  "serverListener": {
-    "listenerProperty1": "value1",
-    "listenerProperty2": "value2"
-  }
-}
+  ]
