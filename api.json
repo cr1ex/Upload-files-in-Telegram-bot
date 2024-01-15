@@ -1,0 +1,12 @@
+{
+    "clientVersionCode": 100,
+    "gameFilesVersionCode": 100,
+    "URL_GAME_FILES": "https://fremont-rp.ru/launcher/fremont.zip",
+    "URL_GAME_FILES_UPD": "https://fremont-rp.ru/launcher/files_upd.zip",
+    "URL_VK": "https://vk.com/fremont.roleplay",
+    "URL_DISCORD": "https://discord.gg/UrKPnn4z",
+    "URL_YOUTUBE": "https://t.me/fremont_rp",
+    "URL_FORUM": " https://forum.fremont-rp.ru/index.php",
+    "URL_DONATE": "https://fremont-rp.ru/donate",
+    "URL_CLIENT": "https://fremont-rp.rutest/client.apk"
+}
