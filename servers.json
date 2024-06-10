@@ -3,18 +3,9 @@
       "color": "ffa500",
       "dopname": "(X2 акции)",
       "maxonline": 50,
-      "name": "Fremont RP",
+      "name": "Florida RP",
       "online": 1,
       "server_status": true,
       "server_num": "1"
-    },
-   {
-      "color": "fff000",
-      "dopname": "(X2 акции)",
-      "maxonline": 50,
-      "name": "Soon",
-      "online": 0,
-      "server_status": false,
-      "server_num": "2"
     }
 ]
